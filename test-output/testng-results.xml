@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21901" started-at="2022-06-14T09:47:36Z" finished-at="2022-06-14T09:47:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21901" started-at="2022-06-14T09:47:36Z" finished-at="2022-06-14T09:47:58Z">
+      <class name="Advanced_selenium.RegisterTC">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:Advanced_selenium.RegisterTC@675d3402]" name="openbrowser" is-config="true" duration-ms="2496" started-at="2022-06-14T15:17:36Z" finished-at="2022-06-14T15:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="TC_02(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Advanced_selenium.RegisterTC@675d3402]" name="TC_02" duration-ms="9039" started-at="2022-06-14T15:17:39Z" data-provider="data" finished-at="2022-06-14T15:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bablu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Srinivas]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[srinsfjsdf@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bablu@9690]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[bablu@9690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="TC_02(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Advanced_selenium.RegisterTC@675d3402]" name="TC_02" duration-ms="3918" started-at="2022-06-14T15:17:48Z" data-provider="data" finished-at="2022-06-14T15:17:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[babli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Srini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dbdbf@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bablu@9690]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[bablu@9690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="TC_02(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Advanced_selenium.RegisterTC@675d3402]" name="TC_02" duration-ms="5392" started-at="2022-06-14T15:17:52Z" data-provider="data" finished-at="2022-06-14T15:17:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[srinu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[babli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sfsdggweg@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bablu@9690]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[bablu@9690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Advanced_selenium.RegisterTC@675d3402]" name="close" is-config="true" duration-ms="166" started-at="2022-06-14T15:17:57Z" finished-at="2022-06-14T15:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Advanced_selenium.RegisterTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
